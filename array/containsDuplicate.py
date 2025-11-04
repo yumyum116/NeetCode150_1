@@ -1,3 +1,7 @@
+# Approach    : Brute-force pairwise comparison approach
+# Strength    : simple and no extra memory
+# Limitation  : slow for large data resulting in Time Out
+
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         i = 0
