@@ -4,13 +4,9 @@
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        i = 0
-        while i < len(nums) - 1:
-            j = i + 1
-            while j < len(nums):
+        n = len(nums)
+        for i in range(n - 1):
+            for j in range(i + 1, n):
                 if nums[i] == nums[j]:
                     return True
-                j += 1
-            i += 1
         return False
-        
