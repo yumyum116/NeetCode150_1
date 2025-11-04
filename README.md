@@ -1,6 +1,6 @@
 # NeetCode150 v.1
 
-This repository is for the record of first trial of NeetCode 150, aiming to change the job by strengthen algorithmic thinking.
+This repository is for the record of first trial of NeetCode 150, aiming to strengthen algorithmic thinking.
 
 ## Progress
 - [x] Arrays - Contains Duplicate
