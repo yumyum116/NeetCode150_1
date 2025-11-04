@@ -19,7 +19,7 @@ Found a timeout issue with large test cases.
 
 ### Alternatives Considered
 - Sorting : $`O(n log n)`$
-- Hash Set : $`O(n)`$, the most efficient way in time complexity
+- Hash Set : $`O(n)`$, the most efficient way both in time complexity and memory access
 - Hash Map : $`O(n)`$, the most efficient way in time complexity, though consumes more memory than a Hash Set
 
 ### Design Philosophy
