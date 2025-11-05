@@ -1,8 +1,8 @@
 ## Contains Duplicate - Design Notes
 
 ### Problem Summary
-Found a time consuming issue comparing with other approaches.
-Redundant code
+- Found a time consuming issue comparing with other approaches.
+- Redundant code
 
 ### Chosen Approach
 - Sorting
