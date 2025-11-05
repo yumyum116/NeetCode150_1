@@ -5,5 +5,5 @@ The philosophy of this repository is to write a code, which the beginner is able
 ## Progress
 - [x] Contains Duplicate
 - [x] Valid Anagram
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Best Time to Buy and Sell Stock
