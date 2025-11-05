@@ -1,4 +1,4 @@
-## Contains Duplicate - Design Notes
+## Valid Anagram - Design Notes
 
 ### Problem Summary
 - Found a time consuming issue comparing with other approaches.
