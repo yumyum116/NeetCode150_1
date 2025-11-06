@@ -1,6 +1,7 @@
-# Approach    :
-# Strength    :
-# Limitation  :
+# Approach    : 
+# Results     : runtime -> 0 ms, memory -> 17.94 MB
+# Strength    : the fastest approach among all the other solutions
+# Limitation  : the worst approach in space complexity
 
 class Solution:
     def scoreOfString(self, s: str) -> int:
