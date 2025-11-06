@@ -1,7 +1,7 @@
 ## Two Sum - Design Notes
 
 ### Problem Summary
-- Found a time consuming issue comparing with other approaches.
+- Found a time consuming issue when compared with other approaches.
 
 ### Chosen Approach
 - Brute-Force
