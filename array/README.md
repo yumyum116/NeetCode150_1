@@ -6,4 +6,6 @@ The philosophy of this repository is to write a code, which the beginner is able
 - [x] Contains Duplicate
 - [x] Valid Anagram
 - [x] Two Sum
+- [x] Valid Palindrome
+- [x] Score Of a String
 - [ ] Best Time to Buy and Sell Stock
