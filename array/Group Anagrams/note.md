@@ -2,23 +2,21 @@
 
 ### Problem Summary
 - Found a time consuming issue when compared with other approaches.
-- Redundant code
 
 ### Chosen Approach
-- Reverse String
+- Sorting
 
-### Why Reverse String?
+### Why Sorting?
 - The simplest and understandable approach for beginners.
 
 ### Strengths
-- low space complexity : $`O(n*k)`$ 
+- relatively low space complexity : $`O(m*n)`$ 
 
 ### Limitations
-- time consuming, though theoretical value of time complexity is $`O(n*klogk)`$
-  This may come from redundant condition and redundant code especially when converting float value to integer.
+- time consuming, though theoretical value of time complexity is $`O(m*nlogn)`$
 
 ### Alternatives Considered
-- Two Pointers : $`O(n)`$, the efficient way in space complexity ($`O(1)`$)
+- Hash Table : $`O(m * n)`$, need more space complexity ($`O(m)`$ for extra space and $`O(m * n)`$ for the output list)
 
 ### Design Philosophy
 - Chose the simplest way
