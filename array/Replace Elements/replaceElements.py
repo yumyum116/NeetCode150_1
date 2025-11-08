@@ -1,6 +1,6 @@
 # Approach     : Brute-force
 # Results      : runtime -> 0.75 sec, memory -> 52.6 MB
-# Strength     : no extra memory
+# Strength     : intensive and understandable
 # Limitation   : time consuming with large data O(n^2)
 
 class Solution:
