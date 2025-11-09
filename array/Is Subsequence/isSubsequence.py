@@ -1,7 +1,7 @@
 # Approach    : Two-pointer
 # Results     : runtime -> 0.889, memory -> 52 MB
-# Strength    : 
-# Limitation  : 
+# Strength    : fast enough
+# Limitation  : redundancy
 
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
