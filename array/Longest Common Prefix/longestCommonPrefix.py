@@ -1,7 +1,7 @@
 # Approach     : Horizontal Scanning
 # Results      : runtime -> 0.815 sec, memory -> 52.3 MB
 # Strength     : no extra memory O(1) and relatively fast approach O(n*m)
-# Limitation   : redundant code
+# Limitation   : when prefix is long, low efficiency in memory and time consuming
 
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
