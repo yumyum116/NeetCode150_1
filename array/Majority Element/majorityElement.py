@@ -1,7 +1,7 @@
 # Approach    : Built-in Approach
 # Results     : runtime -> 5 ms, memory -> 19.38 MB
 # Strength    : relatively faster and efficient more han other approaches
-# Limitation  : 
+# Limitation  : no room for optimazation
 
 import collections
 
